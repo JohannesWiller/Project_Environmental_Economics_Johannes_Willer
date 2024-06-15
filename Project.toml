@@ -1,0 +1,4 @@
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Mimi = "e4e893b0-ee5e-52ea-8111-44b3bdec128c"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
